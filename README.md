@@ -1,0 +1,1 @@
+This package counts the number of words in any given text.
